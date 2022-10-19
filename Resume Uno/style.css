@@ -11,10 +11,11 @@ body {
     color: #444; /*#444*/
     font-weight: 400;
 }
+
 strong {
-  color: ##33485e
+  color: #33485e
   text-transform: uppercase;
-  text-align: center;
+  text-align: center; /* not centering right now*/
   font-size : 1.5em;
 }
 
@@ -40,7 +41,7 @@ h2{
     font-size: 1.5em;
     text-transform: uppercase;
     color: white;
-    background-color: #00FF00; /*33485e*/
+    background-color: #33485e; /*33485e*/
     font-weight: 400;
 }
 
