@@ -13,7 +13,7 @@ body {
 }
 
 h6 {
-  color: #33485e
+  color: #33485e;
   text-transform: uppercase;
   text-align: center; /* not centering right now*/
   font-size : 1.5em;
@@ -27,7 +27,7 @@ title{
     font-weight: 400;
 }
 
-h1{
+#name{
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 3em;
     text-align: center;
