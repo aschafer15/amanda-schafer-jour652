@@ -11,6 +11,11 @@ body {
     color: #444; /*#444*/
     font-weight: 400;
 }
+strong {
+  color: ##33485e
+  text-decoration: uppercase;
+  text-align: center;
+}
 
 title{
     font-family: 'Open Sans', Arial, sans-serif;
