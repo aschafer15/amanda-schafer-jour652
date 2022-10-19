@@ -1,0 +1,67 @@
+/*
+Amanda Schafer
+10/17/22
+ */
+
+html,
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-style: normal;
+    font-size: 1em;
+    color: #444; /*#444*/
+    font-weight: 400;
+}
+
+title{
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #33485e;
+    font-weight: 400;
+}
+
+h1{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #33485e;
+    font-weight: 400;
+}
+
+h2{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: white;
+    background-color: #33485e;
+    font-weight: 400;
+}
+
+h3{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    color: #444;
+}
+
+h4{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #444;
+}
+
+h5{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    font-style: italic;
+    color: #444;
+}
+
+li{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 1em;
+    color: #444;
+}
