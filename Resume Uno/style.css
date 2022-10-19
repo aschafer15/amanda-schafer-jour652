@@ -12,7 +12,7 @@ body {
     font-weight: 400;
 }
 
-strong {
+h6 {
   color: #33485e
   text-transform: uppercase;
   text-align: center; /* not centering right now*/
