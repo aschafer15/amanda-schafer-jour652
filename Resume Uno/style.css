@@ -65,7 +65,7 @@ title{
 #organization {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1.25em;
     color: #444;
 }
 
@@ -76,6 +76,9 @@ title{
     font-style: italic;
     color: #444;
     margin-top: 2px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 li{
