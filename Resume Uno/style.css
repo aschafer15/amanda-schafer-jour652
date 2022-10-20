@@ -98,10 +98,10 @@ li{
   margin-left: 0px;
   margin-right: 0px;
 }
-#menu{
+.menu{
 margin-left: 0px;
 margin-right: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
-text-align: center;
+text-align: center; /*not working again*/
 }
