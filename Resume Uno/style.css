@@ -73,7 +73,7 @@ title{
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
     font-size: 1em;
-    font-style: italic;
+    font-style: italic; /*didn't work*/
     color: #444;
     margin-top: 2px;
     margin-bottom: 0;
