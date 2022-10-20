@@ -45,7 +45,7 @@ title{
     font-size: 1.5em;
     text-transform: uppercase;
     color: white;
-    background-color: #33485e; /*33485e*/
+    background-color: #33485e;
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 10px;
@@ -55,26 +55,27 @@ title{
     min-width: 300px;
 }
 
-h3{
+#jobtitle {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 600;
     font-size: 1.5em;
     color: #444;
 }
 
-h4{
+#organization {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
     font-size: 1.5em;
     color: #444;
 }
 
-h5{
+#date {
     font-family: 'Open Sans', Arial, sans-serif;
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
     color: #444;
+    margin-top: 2px;
 }
 
 li{
@@ -82,6 +83,7 @@ li{
     font-size: 1em;
     color: #444;
 }
+
 #container{
   width: 100%;
   max-width: 1200px;
