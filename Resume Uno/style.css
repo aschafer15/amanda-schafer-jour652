@@ -99,8 +99,9 @@ li{
   margin-right: 0px;
 }
 #menu{
-
-}
-#menu2{
-
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+text-align: center;
 }
