@@ -1,0 +1,89 @@
+#content{
+  margin:0 auto;
+  width: 900px;
+}
+#masthead{
+  text-align: center;
+}
+#byline{
+  font-size:14px;
+  font-family:'Helvetica', Sans-serif, Arial, "Times New Roman";
+  font-style: italic;
+  margin-bottom: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+#h1{
+  font-family:'Raleway', 'Times New Roman',sans-serif;
+  font-size: 3em;
+  text-align: center;
+  font-weight: 500;
+  font-style: oblique;
+  font-weight: bolder;
+  border-top: 50px, solid black; /*why wont this work*/
+  border-left: 3px solid #000000;
+  border-right: 3px solid #000000;
+
+}
+#p{
+  font-family:'Helvetica', sans-serif, Arial, "Times New Roman";
+  font-size:1em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left:0;
+  margin-right:0;
+  text-align: left;
+  font-stretch: extra-expanded;
+}
+#h2{
+  font-family:'Times New Roman',sans-serif, Arial,'Helvetica';
+  font-size: 25px;
+  font-weight: 500;
+  font-weight: bold;
+
+}
+#h3{
+  font-family:'Times New Roman', sans-serif, arial;
+  color: #5A5A5A;
+  font-size: 17px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  font-style: oblique;
+}
+#h4{
+  font-family:'Times New Roman', sans-serif, Arial;
+  font-size:17px;
+  font-weight: bold;
+  margin-bottom:10px;
+  margin-left:0;
+  margin-right:0;
+  text-align: left;
+}
+#blockquote1 {
+font: 24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: tan;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+}
+#readmore{
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  color: black;
+  margin-left: 2px;
+  padding-left: 20px;
+  border-left: 3px solid #000000;
+  text-align: left;
+}
+#links{
+  font-stretch: expanded;
+  font-kerning: normal;
+  font-size: 17px;
+  text-align: left;
+  padding-left: 20px;
+
+}
