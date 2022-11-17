@@ -1,0 +1,42 @@
+#headline {
+  font-size: 3em;
+  font-weight: 700;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#by-line{
+  font-size: 1em;
+  font-family: 'Merriweather', serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+p{
+  font-family:  serif, sans-serif;
+  line-height: 180%;
+  font-size: 1.5em;
+}
+
+#chapterheadline{
+  font-size: 1em;
+  font-weight: 450;
+  font-family: 'Merriweather', serif;
+}
+
+#caption{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1em;
+  color: red;
+}
+
+/*--------Footer------*/
+
+#footer{
+  font-family: Arial, sans-serif;
+  border-width: thick;
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #222;
